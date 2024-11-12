@@ -19,14 +19,10 @@ Esse projeto visa criar uma animação interativa e visualmente atrativa de um a
 
 **Link para pegar as badges**: [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 
-👷 **Autor**
+## 👷 Autor
 
-- Nome do dev - Função realizada - nome_do_dev
+* **Ângelo Silvano** - *Front-End Developer* - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
-📄 **Licença**
+## 📄 Licença
 
-Esse projeto está sob a licença MIT - acesse os detalhes [LICENSE.md](LICENSE.md).
-
----
-
-Esse modelo usa a estrutura que você indicou, com as informações do projeto organizadas de forma clara. Se precisar de mais ajustes ou quiser personalizar algo, me avise!
+* Esse projeto está sob a licença MIT - acesse os detalhes em [LICENSE.md](https://github.com/angelodesenvolvedor/vibe-play?tab=MIT-1-ov-file).
