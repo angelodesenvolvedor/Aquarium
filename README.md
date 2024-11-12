@@ -17,7 +17,6 @@ Esse projeto visa criar uma animação interativa e visualmente atrativa de um a
 - ![HTML5 Badge](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3 Badge](https://img.shields.io/badge/CSS3-1C6E8C?style=for-the-badge&logo=css3&logoColor=white)
 
-**Link para pegar as badges**: [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 
 ## 👷 Autor
 
