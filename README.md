@@ -24,4 +24,4 @@ Esse projeto visa criar uma animação interativa e visualmente atrativa de um a
 
 ## 📄 Licença
 
-* Esse projeto está sob a licença MIT - acesse os detalhes em [LICENSE.md](https://github.com/angelodesenvolvedor/vibe-play?tab=MIT-1-ov-file).
+* Esse projeto está sob a licença MIT - acesse os detalhes em [LICENSE.md](https://github.com/angelodesenvolvedor/Aquarium?tab=MIT-1-ov-file).
